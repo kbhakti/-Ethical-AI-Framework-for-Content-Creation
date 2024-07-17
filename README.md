@@ -1,1 +1,1 @@
-# -Ethical-AI-Framework-for-Content-Creation
+# Ethical-AI-Framework-for-Content-Creation
